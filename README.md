@@ -1,4 +1,4 @@
-###  Seja bem a merda desse perfil krl 🇧🇷
+###  Seja bem a merda desse perfil krl 🌽🇧🇷
 
 meu nome é Pedro Lima 
 
@@ -10,6 +10,6 @@ meu nome é Pedro Lima
 
 - limapp567@gmail.com
 
-- @ppedroalmeidah
+- my instagram @ppedroalmeidah
 
 ![](https://media1.tenor.com/m/zdHIXkTPceQAAAAd/my-honest-reaction-walk.gif)
