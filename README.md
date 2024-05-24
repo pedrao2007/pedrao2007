@@ -1,4 +1,4 @@
-###  Seja bem a merda desse perfil krl 🌽🇧🇷
+###  Seja bem vindo a esse perfil 🌽🇧🇷
 
 meu nome é Pedro Lima 
 
