@@ -1,15 +1,124 @@
-###  Seja bem vindo a esse perfil 🌽🇧🇷
++1
+-1
+Original file line number	Diff line number	Diff line change
+@@ -1,37 +1,37 @@
+.contato {
+    background-color: var(--branco);
+    padding: 1em;
+}
 
-meu nome é Pedro Lima 
+.contato__titulo,
+.contato__texto {
+    background: var(--azul-degrade);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+}
 
-- Estou estudando na [Alura](https://www.alura.com.br)
-- Estou me desenvolvendo na  bosta da linguagem Javascript
-- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
+.contato__titulo {
+    font-size: 18px;
+    font-weight: 500;
+}
 
-- ### Você pode entrar em contato comigo no email caso precise 📫
+.contato__texto {
+    font-weight: 300;
+    margin: 1em 0;
+}
 
-- limapp567@gmail.com
+.contato__email {
+    padding: 1em;
+    border: 1px solid var(--azul);
+    border-radius: 24px;
+    width: 90%;
+    color: var(--azul);
+}
 
-- my instagram @ppedroalmeidah
+.contato__email::placeholder {
+    font-family: var(--fonte-principal);
+    color: var(--azul);
+    background: url("../img/Email.svg") no-repeat;
+    background: url("../img/Email.svg") no-repeat 5%;
+    padding-left: 2em;
+}+1
+-1
+Original file line number	Diff line number	Diff line change
+@@ -1,37 +1,37 @@
+.contato {
+    background-color: var(--branco);
+    padding: 1em;
+}
 
-![](https://media1.tenor.com/m/zdHIXkTPceQAAAAd/my-honest-reaction-walk.gif)
+.contato__titulo,
+.contato__texto {
+    background: var(--azul-degrade);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+}
+
+.contato__titulo {
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.contato__texto {
+    font-weight: 300;
+    margin: 1em 0;
+}
+
+.contato__email {
+    padding: 1em;
+    border: 1px solid var(--azul);
+    border-radius: 24px;
+    width: 90%;
+    color: var(--azul);
+}
+
+.contato__email::placeholder {
+    font-family: var(--fonte-principal);
+    color: var(--azul);
+    background: url("../img/Email.svg") no-repeat;
+    background: url("../img/Email.svg") no-repeat 5%;
+    padding-left: 2em;
+}+1
+-1
+Original file line number	Diff line number	Diff line change
+@@ -1,37 +1,37 @@
+.contato {
+    background-color: var(--branco);
+    padding: 1em;
+}
+
+.contato__titulo,
+.contato__texto {
+    background: var(--azul-degrade);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+}
+
+.contato__titulo {
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.contato__texto {
+    font-weight: 300;
+    margin: 1em 0;
+}
+
+.contato__email {
+    padding: 1em;
+    border: 1px solid var(--azul);
+    border-radius: 24px;
+    width: 90%;
+    color: var(--azul);
+}
+
+.contato__email::placeholder {
+    font-family: var(--fonte-principal);
+    color: var(--azul);
+    background: url("../img/Email.svg") no-repeat;
+    background: url("../img/Email.svg") no-repeat 5%;
+    padding-left: 2em;
+}
